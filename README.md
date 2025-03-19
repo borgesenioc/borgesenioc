@@ -1,12 +1,12 @@
-_____________________________________________________________________________________________________
+---
 
 # Enio Borges
 
-_____________________________________________________________________________________________________
+---
 
 ## Product Engineer | Bridging Technology and Product to Build Meaningful Applications
 
-_____________________________________________________________________________________________________
+---
 
 I lead remote product development and operations, building solutions that drive meaningful impact for global clients.
 
