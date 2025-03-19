@@ -13,3 +13,9 @@ I’m a versatile developer trained in backend engineering at Codecademy and in 
 
 <a href="https://www.linkedin.com/in/enioborges/" style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">LinkedIn</a>
 
+<a href="https://www.enioborges.com" style="display: inline-block; background-color: #FFA500; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">EnioBorges.com</a>
+
+<a href="mailto:enio@enioborges.com" style="display: inline-block; background-color: #DB4437; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Email Me</a>
+
+
+
