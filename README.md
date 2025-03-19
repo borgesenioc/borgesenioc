@@ -1,16 +1,15 @@
-## Hi there 👋
+_____________________________________________________________________________________________________
 
-<!--
-**borgesenioc/borgesenioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Enio Borges
+_____________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+## Product Engineer | Bridging Technology and Product to Build Meaningful Applications
+_______________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I lead remote product development and operations, building solutions that drive meaningful impact for global clients.
+
+I’m a versatile developer trained in backend engineering at Codecademy and in web and frontend development at Tripleten. I work with JavaScript, Python, Node.js, Express, Postgres, CSS, and HTML, always keeping best practices in mind. With a background in SaaS operations, I blend technical skills with strong communication to create reliable, user-friendly solutions.
+
+
+<a href="https://www.linkedin.com/in/enioborges/" style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">LinkedIn</a>
+
