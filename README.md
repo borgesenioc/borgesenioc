@@ -1,4 +1,4 @@
-# 👋 💻
+# 💻
 # Enio Borges
 
 **Product Engineer | Expert at integrating social network data with third-party and private APIs**
