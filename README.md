@@ -1,7 +1,7 @@
 # 💻
 # Enio Borges
 
-**Product Engineer | Expert at integrating social networks to private APIs**
+**Product Engineer | Connecting professional networks to private APIs**
 ___
 
 I lead remote product development and operations teams with a focus on professional network applications. Trained in backend engineering at Codecademy and web/frontend development at Tripleten, I'm able to deliver projects across the whole stack. My experience in SaaS operations has taught me the value of clear communication alongside technical expertise, allowing me to deliver reliable, user-focused software without sacrificing quality or simplicity.
