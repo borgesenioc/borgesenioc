@@ -1,10 +1,10 @@
 # 💻
 # Enio Borges
 
-**Backend Engineer | API Integration specialist**
+**Backend Engineer | Building products that matter**
 ___
 
-I lead remote product development and operations teams focusing on professional network applications. Trained in backend engineering at Codecademy and web/frontend development at Tripleten, I can deliver projects across the whole stack. My experience in SaaS operations has taught me the value of clear communication alongside technical expertise, allowing me to provide reliable, user-focused software without sacrificing quality or simplicity.
+I lead remote product development and operations teams focusing on professional network applications. Trained in backend engineering at Codecademy and web and frontend development at Tripleten, I can deliver projects across the entire stack. My experience in SaaS operations has taught me the value of combining clear communication with technical expertise, enabling me to deliver reliable, user-focused software that balances quality and simplicity.
 
 <br>
 <!--- Badges created with https://shields.io/badges  --->
