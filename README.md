@@ -12,7 +12,7 @@ I have used these tools and frameworks in my most recent projects (last 6 months
 
 - Celery and Redis (Python) in a Heroku server to integrate Hubspot, PhantomBuster (Linkedin), Apollo.io and ContactOut.
 - Claude Haiku 3.5, AWS Bedrock (Knowledge Bases, Agents and Workflows) in the AWS environment (Lambdas, API Gateway, CloudWatch and Layers) to create a Hubspot AI Agent.
-- Plain JavaScript OpenAI API calls in n8n workflows to identify, merge and enrich contacts in Hubspot.
+- Plain JavaScript and OpenAI API calls in n8n workflows to identify, merge and enrich contacts in Hubspot.
 
 <!--- Badges created with https://shields.io/badges  --->
 
