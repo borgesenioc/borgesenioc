@@ -24,7 +24,6 @@ Frameworks
 [![](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/ExpressJS-%23404d59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/AxiosJS-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 
 Languages
 
