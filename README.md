@@ -4,7 +4,7 @@
 **Backend Engineer | Building products that matter**
 ___
 
-I lead remote product development and operations teams focusing on professional network applications. Trained in backend engineering at Codecademy and web and frontend development at Tripleten, I can deliver projects across the entire stack. My experience in SaaS operations has taught me the value of combining clear communication with technical expertise, enabling me to deliver reliable, user-focused software that balances quality and simplicity.
+I lead remote product development and operations teams focusing on enterprise network applications. Trained in backend, web and frontend engineering at Codecademy and Tripleten, I can deliver projects across the entire stack. My experience in SaaS operations has taught me the value of combining clear communication with technical expertise, enabling me to deliver reliable, user-focused software that balances quality and simplicity.
 
 <br>
 
