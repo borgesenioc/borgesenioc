@@ -1,6 +1,3 @@
-
-**Software Engineer**
-
 I scope, design and build enterprise applications at OnFrontiers: 
 
 - Core microservices app on a Go, GraphQL and MySQL backend; React FE.
