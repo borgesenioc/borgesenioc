@@ -1,18 +1,13 @@
-# 💻
-# Enio Borges
 
-**Backend Engineer | Building products that matter**
-___
+**Software Engineer**
 
-I scope, design and build enterprise applications. Trained in backend, web and frontend engineering at Codecademy and Tripleten, I can deliver projects across the entire stack. My experience in SaaS operations has taught me the value of combining clear communication with technical expertise, enabling me to deliver reliable, user-focused software that balances quality and simplicity.
+I scope, design and build enterprise applications at OnFrontiers: 
 
-<br>
+- Core microservices app on a Go, GraphQL and MySQL backend; React FE.
+- Internal operations/adm app on NodeJS (Express) and Postgres backend; React FE.
+- Self-hosted AI agent app on a Python api serving multiple clients.
 
-I have used these tools and frameworks in my most recent projects (last 6 months or so):
-
-- Celery and Redis (Python) in a Heroku server to integrate Hubspot, PhantomBuster (Linkedin), Apollo.io and ContactOut.
-- Claude Haiku 3.5, AWS Bedrock (Knowledge Bases, Agents and Workflows) in the AWS environment (Lambdas, API Gateway, CloudWatch and Layers) to create a Hubspot AI Agent.
-- Plain JavaScript and OpenAI API calls in n8n workflows to identify, merge and enrich contacts in Hubspot.
+10+ years in executive operations roles before transitioning into software development. 
 
 <!--- Badges created with https://shields.io/badges  --->
 
