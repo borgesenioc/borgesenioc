@@ -4,6 +4,8 @@ I scope, design and build enterprise applications at OnFrontiers:
 - Internal operations/adm app on NodeJS (Express) and Postgres backend; React FE.
 - Self-hosted AI agent app on a Python api serving multiple clients.
 
+[Private GitHub profile](https://github.com/borgesenio) - that's where I work daily.
+
 10+ years in executive operations roles before transitioning into software development. 
 
 <!--- Badges created with https://shields.io/badges  --->
